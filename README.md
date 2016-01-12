@@ -1,3 +1,3 @@
 # JS is Awesome
 
-### A list of amazing JS repo's
+### Handpicked collection of amazing JS projects and articles.
