@@ -9,6 +9,7 @@
 [Gitbook.IO Javascript](https://github.com/GitbookIO/javascript)
 [Javascript Path](https://github.com/javascript-society/javascript-path)
 [Essential Javascript Links](https://github.com/ericelliott/essential-javascript-links)
+[A collection of documentation about the most quirky parts of the JavaScript language.](http://bonsaiden.github.io/JavaScript-Garden/) | [Github Repo](https://github.com/BonsaiDen/JavaScript-Garden)
 
 ### Frameworks
 #### React JS
